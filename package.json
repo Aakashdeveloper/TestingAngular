@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "private": true,
   "dependencies": {
     "cra-template-typescript": "1.2.0",
